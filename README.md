@@ -6,7 +6,7 @@ In-built Libraries Used:
 - numpy as np
 - matplotlib.pyplot as plt
 - tqdm as tqdm
-- 
+
 SnakesAndLadders Methods:
 - __init__ : initializes the board and other variables
 - reset: resets the board for multiple runs
