@@ -1,6 +1,6 @@
 # COGS182-Reinforcement_Learning
 
-The source code provided contains the SnakesAndLadders class and Agent classes. The SnakesAndLadders class is responsible for creating the environment while the Agent class is responsible for being the player that interacts with the environment. 
+The source code provided contains the SnakesAndLadders class and Agent classes. The SnakesAndLadders class is responsible for creating the environment while the Agent class is responsible for being the player that interacts with the environment. This Snakes And Ladders board game is a game whereby the agent starts at state 1 and reaches the goal at state 100. The aim is to find the fastest way to get to the goal.
 
 In-built Libraries Used:
 - numpy as np
